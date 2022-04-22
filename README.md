@@ -31,7 +31,9 @@ Project Link: [https://github.com/ymliu978/travel-journal-react](https://github.
 ## Acknowledgments
 
 * [Scrimba.com - Learn React for Free](https://scrimba.com/playlist/pqQgrcN)
-* [Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
+* [Scrimba Discord](https://scrimba.com/discord)
+* [Charlie-li-li](https://github.com/Charlie-li-li)
+* [Vercel.com](https://vercel.com/)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Inter - Google Fonts](https://fonts.google.com/specimen/Inter)
 * [Icons8](https://icons8.com/)
