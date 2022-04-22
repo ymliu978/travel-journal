@@ -18,16 +18,6 @@
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
-## Contact
-
-Yamiao Liu - [LinkedIn](www.linkedin.com/in/yamiaoliu) 
-
-Project Link: [https://github.com/ymliu978/travel-journal-react](https://github.com/ymliu978/travel-journal-react)
-
-
-
 ## Acknowledgments
 
 * [Scrimba.com - Learn React for Free](https://scrimba.com/playlist/pqQgrcN)
