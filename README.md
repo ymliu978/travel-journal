@@ -1,18 +1,24 @@
-  <h3 align="center">Travel Journal</h3>
-
-  <p align="center">
-    A responsive website built with React.js!
+<div align="center" id="top">
+  <h1 align="center">Travel Journal</h3>
+  <h3 align="center">
+   A responsive website built with React.js!
     <br />
-    <a href="https://travel-journal-react-zeta.vercel.app/"><strong>View demo »</strong></a>
-  </p>
-
-
+    <a href="https://travel-journal-react-zeta.vercel.app/"><strong>View Live Demo »</strong></a>
+    <br />
+    <br />
+  </h3>
+</div>
 
 ## About The Project
-
-![Desktop View](src/images/desktop-view.png)
-
-![Mobile View](src/images/mobile-view.png)
+<div align="center">
+   <h4 align="center">Desktop View</h3>
+  
+  ![Desktop View](src/images/desktop-view.png)
+  
+  <h4 align="center">Mobile View</h3>
+  
+  ![Mobile View](src/images/mobile-view.png)
+</div>
 
 ## License
 
