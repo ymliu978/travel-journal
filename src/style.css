@@ -14,7 +14,7 @@ body {
 }
 
 nav {
-    height: 0.08 vh;
+    height: 3rem;
     background-color: #F55A5A;
     display: flex;
     align-items: center;
