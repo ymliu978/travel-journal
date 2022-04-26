@@ -103,13 +103,13 @@ nav {
 }
 
 /* fit for different screens size */
-/* @media screen and (min-width: 1024px) {
+@media only screen and (min-width: 1024px) {
     * {
         font-size: 100%;
     }
 }
 
-@media screen and (max-width: 924px) {
+@media only screen and (max-width: 924px) {
     .card{
         flex-direction: column;
     }
@@ -128,7 +128,7 @@ nav {
     }
 }
 
-@media screen and (max-width: 540px) {
+@media only screen and (max-width: 540px) {
     * {
         font-size: 40%;
     }
@@ -151,9 +151,30 @@ nav {
     }
 }
 
- */
+@media only screen and (max-width: 375px) {
+    * {
+        font-size: 35%;
+    }
+    
+    .card{
+        flex-direction: column;
+    }
 
-/* @media screen and (max-width: 280px) {
+    .card--left {
+        margin-right: 0;
+    }
+
+    .card--left img {
+        width: 54rem;
+        height: 36rem;
+    }
+
+    .card--right {
+        width: 54rem;
+    }
+}
+
+@media only screen and (max-width: 280px) {
     * {
         font-size: 30%;
     }
@@ -175,26 +196,3 @@ nav {
         width: 54rem;
     }
 }
-
-@media screen and (max-width: 375px) {
-    * {
-        font-size: 35%;
-    }
-    
-    .card{
-        flex-direction: column;
-    }
-
-    .card--left {
-        margin-right: 0;
-    }
-
-    .card--left img {
-        width: 54rem;
-        height: 36rem;
-    }
-
-    .card--right {
-        width: 54rem;
-    }
-} */
