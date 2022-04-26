@@ -199,7 +199,7 @@ nav {
 @media only screen 
   and (min-width: 375px) 
   and (max-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+  and (-webkit-min-device-pixel-ratio: 2) { 
     * {
         font-size: 35%;
     }
@@ -221,3 +221,26 @@ nav {
         width: 54rem;
     }
 }
+
+/* @media only screen and (max-width: 375px) {
+    * {
+        font-size: 35%;
+    }
+    
+    .card{
+        flex-direction: column;
+    }
+
+    .card--left {
+        margin-right: 0;
+    }
+
+    .card--left img {
+        width: 54rem;
+        height: 36rem;
+    }
+
+    .card--right {
+        width: 54rem;
+    }
+} */
