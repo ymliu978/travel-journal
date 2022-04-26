@@ -197,8 +197,8 @@ nav {
     }
 } */
 @media only screen 
-  and (min-width: 375px) 
-  and (max-width: 812px) 
+  and (min-width: 360px) 
+  /* and (max-width: 812px)  */
   and (-webkit-min-device-pixel-ratio: 2) { 
     * {
         font-size: 35%;
