@@ -103,7 +103,7 @@ nav {
 }
 
 /* fit for different screens size */
-@media screen and (min-width: 1024px) {
+/* @media screen and (min-width: 1024px) {
     * {
         font-size: 100%;
     }
@@ -151,9 +151,11 @@ nav {
     }
 }
 
-@media screen and (max-width: 375px) {
+ */
+
+@media screen and (max-width: 280px) {
     * {
-        font-size: 35%;
+        font-size: 30%;
     }
     
     .card{
@@ -174,9 +176,9 @@ nav {
     }
 }
 
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 375px) {
     * {
-        font-size: 30%;
+        font-size: 35%;
     }
     
     .card{
